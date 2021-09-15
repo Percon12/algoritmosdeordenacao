@@ -1,3 +1,7 @@
+/*
+    Método de Ordenação de Dados - Quick Sort
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
